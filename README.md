@@ -249,8 +249,7 @@ Retail-Sales-Analysis/
 ├── retail_project.xlsx
 ├── README.md
 │
-└── screenshots/
-    └── dashboard.png
+└── Dashboard_screenshot.png
 ```
 
 ---
